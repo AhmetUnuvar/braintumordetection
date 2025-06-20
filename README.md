@@ -54,7 +54,6 @@ Model, aşağıdaki gibi görseller üretmektedir:
 - Gerçek Maskeli MRI
 - Yapay Zeka ile Maskelenmiş MRI
 
-![Example](https://user-images.githubusercontent.com/your-sample-image.png) <!-- örnek ekran görüntüsü ekleyebilirsin -->
 
 ## 🛠️ Nasıl Kullanılır?
 
@@ -67,11 +66,6 @@ Model, aşağıdaki gibi görseller üretmektedir:
 
 5. Test etmek için kullanıcıdan `.jpg` dosyası alınır ve sınıflandırma sonucu gösterilir.
 
-## 🔬 Akademik Referanslar
-
-- **Focal Tversky Loss**:  
-  *Abraham, Nabila and Khan, Naimul Mefraz. A novel Focal Tversky loss function with improved Attention U-Net for lesion segmentation. arXiv:1810.07842*
-
 ## 👩‍⚕️ Uygulama Alanları
 
 - Radyolojik görüntü analizi
@@ -79,11 +73,3 @@ Model, aşağıdaki gibi görseller üretmektedir:
 - Klinik karar destek sistemleri
 - Medikal yapay zeka çözümleri
 
-## ✍️ Geliştirici
-
-Bu proje Ahmet Ünüvar tarafından gerçekleştirilmiştir.  
-📧 İletişim: [E-posta veya GitHub Profil Linki]
-
-## 📄 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
